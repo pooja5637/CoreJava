@@ -1,0 +1,12 @@
+
+Wrapper -> String === toString()
+Primitive -> String === toString()
+
+String -> Wrapper === valueOf()
+Primitive ->Wrapper === valueOf
+
+Wrapper -> Primitive === xxxValue()
+String -> Primitive === parseXxx()
+
+
+
