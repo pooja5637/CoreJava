@@ -1,4 +1,4 @@
-package com.revision.core.Collection;
+package com.revision.core.Collection.Basic;
 
 import java.util.HashMap;
 import java.util.Iterator;
