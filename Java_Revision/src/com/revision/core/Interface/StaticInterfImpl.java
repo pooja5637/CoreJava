@@ -12,6 +12,10 @@ public class StaticInterfImpl implements StaticInterf {
 		
 		StaticInterf.sum(10, 20);
 		
+//		StaticInterf i = new StaticInterfImpl();
+//		
+//		i.sum(10,20);
+		
 	}
 
 }
